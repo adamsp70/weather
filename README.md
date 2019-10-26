@@ -1,3 +1,11 @@
+Weather project ready for review.
+It's a bit rough and ready, needs better testing and I would have split the components further (container/presentation) etc 
+But this is a good representation of what I can achieve in the given time.
+
+Feedback gratefully received....
+    Paul
+	
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
