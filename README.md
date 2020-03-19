@@ -1,10 +1,40 @@
-Weather project ready for review.
+Weather project - built for a previous interview test.
+
+I was given 2-3 hours to complete, but it took a bit longer. 
+
 It's a bit rough and ready, needs better testing and I would have split the components further (container/presentation) etc 
 But this is a good representation of what I can achieve in the given time.
 
-Feedback gratefully received....
-    Paul
-	
+----------------------------------	
+
+Brief
+
+For this test, we are looking for you to create a simple React SPA. The application should have the following functionality / features
+
+● Create-react-application should be used to bootstrap the application
+● On the first load a user is asked to allow his location to proceed.
+● If user gives consent to use his location the browser location dialog is shown to let user allow his location.
+● The application uses the user’s location to fetch the current weather using one of the public apis (you can use ​https://www.metaweather.com/api/​ or similar)
+● Show the current weather icon in the middle of the screen (centered vertically and horizontally)
+● Change the page background color dynamically based on the current temperature shown in celsius. Use the following colors: #00ffff ​for -10 degrees and below #fff700 ​for +10 degrees #ff8c00 ​for +30 degrees and above Dynamically calculate the color for the temperature in between.
+
+Stretch Goal
+
+● Add a slider to the bottom of the page to adjust the temperature shown on the screen (the slider should affect the background color as well).
+● Host the site on heroku, firebase, aws or any other hosting provider of your choice.
+● Provide a deployment script to deploy the site to the hosting provider of your choice and instructions on how to use it.
+
+Other
+
+● Use the React best practices
+● Use the latest version of the framework
+● Provide an appropriate .gitignore file
+● Please keep the git commit history clean and tidy. Commits should be logical and apply to the single feature / functionality / integration.
+● Third-party libraries can be used
+● Make sure the libraries being used have 0 vulnerabilities
+● We would like to see demonstrable use of best SOLID practises
+
+----------------------------------	
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
